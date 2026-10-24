@@ -8,9 +8,9 @@
 
 | Проект | Что внутри |
 |:--|:--|
-| [**Weather Proxy API**](https://github.com/RassolovSergey/WeatherAPI) | C# / ASP.NET Core, Redis, устойчивые HTTP-вызовы, тесты API, интерфейс на Next.js |
-| [**IS Budget**](https://github.com/RassolovSergey/IS-Budget-public) | Go, PostgreSQL, Next.js, управление проектными финансами и отдельный сервис прогнозирования |
-| [**.NET Auth API**](https://github.com/RassolovSergey/OnlineStore) | JWT, refresh-токены, управление сессиями, PostgreSQL, валидация и тесты |
+| [**Weather Proxy API**](https://github.com/RassolovSergey/weather-proxy-api) | C# / ASP.NET Core, Redis, устойчивые HTTP-вызовы, тесты API, интерфейс на Next.js |
+| [**IS Budget**](https://github.com/RassolovSergey/is-budget) | Go, PostgreSQL, Next.js, управление проектными финансами и отдельный сервис прогнозирования |
+| [**.NET Auth API**](https://github.com/RassolovSergey/dotnet-auth-api) | JWT, refresh-токены, управление сессиями, PostgreSQL, валидация и тесты |
 | [**Marketing System**](https://github.com/RassolovSergey/marketing-system-showcase) | Обзор внутреннего инструмента: сбор маркетинговых данных, API-интеграции и аналитический dashboard |
 
 ### С чем работаю
