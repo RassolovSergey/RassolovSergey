@@ -4,7 +4,7 @@ Backend-разработчик, основной стек C# / .NET. Созда�
 
 Проходил стажировку в .NET-разработке в Simpl. В ЭР-Телеком тестировал frontend и backend, проверял REST API и писал автотесты на Go.
 
-[Pet-проекты](#pet-проекты) · [Ashfall Chronicles](#инструменты-для-ashfall-chronicles) · [Учебные проекты](#учебные-проекты) · [LinkedIn](https://www.linkedin.com/in/sergey-rassolov-208526222/) · [Telegram](https://t.me/NPCx10)
+[Pet-проекты](#pet-проекты) · [Ashfall Chronicles](#инструменты-для-ashfall-chronicles) · [Учебные проекты](#учебные-проекты) · [LinkedIn](https://www.linkedin.com/in/rassolovsergey/) · [Telegram](https://t.me/NPCx10)
 
 ## Pet-проекты
 
@@ -40,4 +40,4 @@ Backend-разработчик, основной стек C# / .NET. Созда�
 
 В README проектов описаны возможности, запуск и текущие ограничения.
 
-[LinkedIn](https://www.linkedin.com/in/sergey-rassolov-208526222/) · [Telegram: @NPCx10](https://t.me/NPCx10)
+[LinkedIn](https://www.linkedin.com/in/rassolovsergey/) · [Telegram: @NPCx10](https://t.me/NPCx10)
