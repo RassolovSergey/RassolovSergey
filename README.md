@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center"><img src="assets/header.svg" alt="Sergey Rassolov. Backend and product development." width="100%"></p>
 
-<!--
-**RassolovSergey/RassolovSergey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разрабатываю backend и прикладные веб-инструменты. Основное направление: **C# / .NET**. В проектах также использую Go, JavaScript / TypeScript и PostgreSQL.
 
-Here are some ideas to get you started:
+Есть опыт .NET-стажировки в Simpl и работы с ручным тестированием frontend / backend и автотестами на Go в ЭР-Телеком. Этот опыт помогает смотреть на приложение целиком: от API и данных до поведения интерфейса и ошибок пользователя.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Избранные проекты
+
+| Проект | Что внутри |
+|:--|:--|
+| [**Weather Proxy API**](https://github.com/RassolovSergey/WeatherAPI) | C# / ASP.NET Core, Redis, устойчивые HTTP-вызовы, тесты API, интерфейс на Next.js |
+| [**IS Budget**](https://github.com/RassolovSergey/IS-Budget-public) | Go, PostgreSQL, Next.js, управление проектными финансами и отдельный сервис прогнозирования |
+| [**.NET Auth API**](https://github.com/RassolovSergey/OnlineStore) | JWT, refresh-токены, управление сессиями, PostgreSQL, валидация и тесты |
+| [**Marketing System**](https://github.com/RassolovSergey/marketing-system-showcase) | Обзор внутреннего инструмента: сбор маркетинговых данных, API-интеграции и аналитический dashboard |
+
+### С чем работаю
+
+**Backend:** C#, ASP.NET Core, Entity Framework Core, REST API, Go.  
+**Данные и инфраструктура:** PostgreSQL, SQL, Redis, Docker, Git, GitLab CI.  
+**Web и качество:** React, Next.js, JavaScript / TypeScript, Postman, DevTools, ручное тестирование и автотесты.
+
+### Сейчас в фокусе
+
+Делаю проекты понятнее для запуска и сопровождения: актуальная документация, проверки API, обработка сбоев интеграций и воспроизводимые демонстрации.
+
+[Telegram: @NPCx10](https://t.me/NPCx10)
