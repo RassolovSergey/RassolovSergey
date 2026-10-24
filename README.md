@@ -1,26 +1,43 @@
 # Сергей Рассолов
 
-Разрабатываю backend и прикладные веб-инструменты. Основное направление: **C# / .NET**. В проектах также использую Go, JavaScript / TypeScript и PostgreSQL.
+Backend-разработчик, основной стек C# / .NET. Создаю API, веб-приложения и инструменты для автоматизации рабочих задач.
 
-Есть опыт .NET-стажировки в Simpl и работы с ручным тестированием frontend / backend и автотестами на Go в ЭР-Телеком. Этот опыт помогает смотреть на приложение целиком: от API и данных до поведения интерфейса и ошибок пользователя.
+Проходил стажировку в .NET-разработке в Simpl. В ЭР-Телеком тестировал frontend и backend, проверял REST API и писал автотесты на Go.
 
-### Избранные проекты
+[Pet-проекты](#pet-проекты) · [Ashfall Chronicles](#инструменты-для-ashfall-chronicles) · [Учебные проекты](#учебные-проекты) · [Telegram](https://t.me/NPCx10)
 
-| Проект | Что внутри |
-|:--|:--|
-| [**Weather Proxy API**](https://github.com/RassolovSergey/weather-proxy-api) | C# / ASP.NET Core, Redis, устойчивые HTTP-вызовы, тесты API, интерфейс на Next.js |
-| [**IS Budget**](https://github.com/RassolovSergey/is-budget) | Go, PostgreSQL, Next.js, управление проектными финансами и отдельный сервис прогнозирования |
-| [**.NET Auth API**](https://github.com/RassolovSergey/dotnet-auth-api) | JWT, refresh-токены, управление сессиями, PostgreSQL, валидация и тесты |
-| [**Marketing System**](https://github.com/RassolovSergey/marketing-system-showcase) | Обзор внутреннего инструмента: сбор маркетинговых данных, API-интеграции и аналитический dashboard |
+## Pet-проекты
 
-### С чем работаю
+Небольшие проекты для практики backend-разработки и интеграций.
 
-**Backend:** C#, ASP.NET Core, Entity Framework Core, REST API, Go.  
-**Данные и инфраструктура:** PostgreSQL, SQL, Redis, Docker, Git, GitLab CI.  
-**Web и качество:** React, Next.js, JavaScript / TypeScript, Postman, DevTools, ручное тестирование и автотесты.
+| Проект | Задача | Стек |
+|:--|:--|:--|
+| [Weather Proxy API](https://github.com/RassolovSergey/weather-proxy-api) | Погодный API с кэшированием, обработкой сбоев внешнего сервиса и веб-интерфейсом | C#, ASP.NET Core, Redis, Next.js |
+| [.NET Auth API](https://github.com/RassolovSergey/dotnet-auth-api) | Регистрация, JWT-аутентификация, refresh-токены и управление сессиями | C#, ASP.NET Core, EF Core, PostgreSQL |
 
-### Сейчас в фокусе
+## Инструменты для Ashfall Chronicles
 
-Делаю проекты понятнее для запуска и сопровождения: актуальная документация, проверки API, обработка сбоев интеграций и воспроизводимые демонстрации.
+Разрабатываю внутренние инструменты для работы с маркетинговыми данными и кампаниями студии.
+
+| Проект | Задача | Стек |
+|:--|:--|:--|
+| [Marketing System](https://github.com/RassolovSergey/marketing-system-showcase) | Сбор данных из внешних источников и dashboard для анализа кампаний. По ссылке публичный обзор, код рабочей системы закрыт | React, Node.js, PostgreSQL, Redis |
+
+## Учебные проекты
+
+Более крупные приложения, созданные во время обучения.
+
+| Проект | Задача | Стек |
+|:--|:--|:--|
+| [IS Budget](https://github.com/RassolovSergey/is-budget) | Учёт финансов проектной команды, распределение средств и сервис прогнозирования | Go, PostgreSQL, Next.js, FastAPI |
+| [TeamProfit](https://github.com/RassolovSergey/teamprofit) | Командная курсовая работа: проекты, участники, доходы и расходы | C#, ASP.NET Core, Blazor, EF Core |
+
+## Технологии и опыт
+
+**Backend и данные:** C#, ASP.NET Core, Entity Framework Core, Go, REST API, PostgreSQL, SQL, Redis.  
+**Web и инструменты:** React, Next.js, JavaScript / TypeScript, Docker, Git, GitLab CI.  
+**Тестирование:** Postman, DevTools, ручные проверки API и интерфейсов, автотесты на Go.
+
+В README проектов описаны возможности, запуск и текущие ограничения.
 
 [Telegram: @NPCx10](https://t.me/NPCx10)
