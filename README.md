@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/header.svg" alt="Sergey Rassolov. Backend and product development." width="100%"></p>
+# Сергей Рассолов
 
 Разрабатываю backend и прикладные веб-инструменты. Основное направление: **C# / .NET**. В проектах также использую Go, JavaScript / TypeScript и PostgreSQL.
 
