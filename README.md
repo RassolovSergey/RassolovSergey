@@ -4,7 +4,7 @@ Backend-разработчик, основной стек C# / .NET. Созда�
 
 Проходил стажировку в .NET-разработке в Simpl. В ЭР-Телеком тестировал frontend и backend, проверял REST API и писал автотесты на Go.
 
-[Pet-проекты](#pet-проекты) · [Ashfall Chronicles](#инструменты-для-ashfall-chronicles) · [Учебные проекты](#учебные-проекты) · [Telegram](https://t.me/NPCx10)
+[Pet-проекты](#pet-проекты) · [Ashfall Chronicles](#инструменты-для-ashfall-chronicles) · [Учебные проекты](#учебные-проекты) · [LinkedIn](https://www.linkedin.com/in/sergey-rassolov-208526222/) · [Telegram](https://t.me/NPCx10)
 
 ## Pet-проекты
 
@@ -30,7 +30,7 @@ Backend-разработчик, основной стек C# / .NET. Созда�
 | Проект | Задача | Стек |
 |:--|:--|:--|
 | [IS Budget](https://github.com/RassolovSergey/is-budget) | Учёт финансов проектной команды, распределение средств и сервис прогнозирования | Go, PostgreSQL, Next.js, FastAPI |
-| [TeamProfit](https://github.com/RassolovSergey/teamprofit) | Командная курсовая работа: проекты, участники, доходы и расходы | C#, ASP.NET Core, Blazor, EF Core |
+| [TeamProfit](https://github.com/RassolovSergey/teamprofit) | Самостоятельный учебный проект: проекты, участники, доходы и расходы | C#, ASP.NET Core, Blazor, EF Core |
 
 ## Технологии и опыт
 
@@ -40,4 +40,4 @@ Backend-разработчик, основной стек C# / .NET. Созда�
 
 В README проектов описаны возможности, запуск и текущие ограничения.
 
-[Telegram: @NPCx10](https://t.me/NPCx10)
+[LinkedIn](https://www.linkedin.com/in/sergey-rassolov-208526222/) · [Telegram: @NPCx10](https://t.me/NPCx10)
